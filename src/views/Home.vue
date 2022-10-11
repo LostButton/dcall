@@ -1,6 +1,6 @@
 <script lang="ts">
 import { defineComponent } from "vue";
-
+//random
 export default defineComponent({
   name: "Home",
   data() {
